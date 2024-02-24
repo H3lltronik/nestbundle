@@ -1,0 +1,11 @@
+{
+  "name": "@h3lltronik/nestlog",
+  "version": "1.0.0",
+  "repository": "https://github.com/h3lltronik/nestbundle.git",
+  "files": [
+    "dist/**/*"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
